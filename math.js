@@ -15,3 +15,4 @@ console.log(Math.round(2.2))
 console.log(Math.floor(2.8))
 // ceiling add point value and make this non fraction value
 console.log(Math.ceil(2.0001)) 
+ 
